@@ -5,7 +5,7 @@ How much total revenue the business made
 How many pizzas were sold and how many orders were placed
 Which pizzas are the best sellers and which are the worst sellers
 Which categories (Chicken, Veggie, Supreme, Classic) perform the best
-Customer ordering patterns, like how many pizzas people usually buy in one order
+Customer ordering patterns, like how many pizzas people usually buy in one order.
 
 🔑 Key Highlights
 KPIs at the top → Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Avg Pizzas per Order
